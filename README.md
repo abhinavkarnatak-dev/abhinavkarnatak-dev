@@ -1,14 +1,31 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0D47A1,100:00BCD4&height=210&section=header&text=Abhinav%20Karnatak&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Applied%20AI%20%26%20Agentic%20Engineering&descSize=16&descAlignY=57&animation=fadeIn)
+```
+  ________  ________  ___  ___  ___  ________   ________  ___      ___
+ |\   __  \|\   __  \|\  \|\  \|\  \|\   ___  \|\   __  \|\  \    /  /|
+ \ \  \|\  \ \  \|\ /\ \  \\\  \ \  \ \  \\ \  \ \  \|\  \ \  \  /  / /
+  \ \   __  \ \   __  \ \   __  \ \  \ \  \\ \  \ \   __  \ \  \/  / /
+   \ \  \ \  \ \  \|\  \ \  \ \  \ \  \ \  \\ \  \ \  \ \  \ \    / /
+    \ \__\ \__\ \_______\ \__\ \__\ \__\ \__\\ \__\ \__\ \__\ \__/ /
+     \|__|\|__|\|_______|\|__|\|__|\|__|\|__| \|__|\|__|\|__|\|__|/
+```
 
-<a href="https://abhinavkarnatak.com"><img src="https://img.shields.io/badge/Portfolio-abhinavkarnatak.com-00BCD4?style=for-the-badge&labelColor=07111F&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abhinavkarnatak"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&labelColor=07111F&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=22D3EE&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%F0%9F%9A%80;Applied+AI+%26+Agentic+Engineering;TypeScript+%2B+Node.js+%2B+Python;Building+reliable+systems+that+ship+%E2%9A%A1;Aviation+nerd+at+heart+%E2%9C%88%EF%B8%8F" alt="Typing introduction" />
 
-<br />
+<samp>Building intelligent products, reliable agent workflows, and cloud-native systems.</samp>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+and+agentic+systems;Engineering+reliable+tools%2C+workflows%2C+and+cloud+platforms;Turning+complex+ideas+into+software+that+ships" alt="Typing introduction" />
+<br /><br />
+
+<p>
+  <kbd><a href="https://abhinavkarnatak.com"><img src="https://img.shields.io/badge/Portfolio-abhinavkarnatak.com-00BCD4?style=for-the-badge&labelColor=07111F&logo=googlechrome&logoColor=white" alt="Portfolio" /></a></kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd><a href="https://www.linkedin.com/in/abhinavkarnatak"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&labelColor=07111F&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></kbd>
+</p>
+<p>
+  <kbd><a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=white" alt="Email" /></a></kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd><a href="./Abhinav-Karnatak-Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&labelColor=07111F&logo=adobeacrobatreader&logoColor=white" alt="Download Abhinav Karnatak's resume" /></a></kbd>
+</p>
 
 </div>
 
@@ -130,34 +147,18 @@ I build end-to-end, AI-powered software with a focus on **agent workflows, tool 
   </tr>
 </table>
 
-## Experience
-
-| Role | Organization | Period | Focus |
-| :--- | :--- | :--- | :--- |
-| **Analyst · Software Engineer** | Capgemini | Sep 2025 – May 2026 | Enterprise server environments, network troubleshooting, system health, and operational reliability |
-| **Data Engineer Intern** | HERE Technologies | Jun 2024 – Jul 2024 | Python-based data collection automation that reduced manual effort by **30%** |
-
 ## GitHub snapshot
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhinavkarnatak-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abhinavkarnatak-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0369A1&icon_color=0284C7&text_color=334155&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavkarnatak-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="Abhinav's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkarnatak-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkarnatak-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=0369A1&text_color=334155&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkarnatak-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most used languages" />
-  </picture>
-</div>
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavkarnatak-dev&theme=github_dark" alt="Abhinav's GitHub contribution overview" />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhinavkarnatak-dev&bg_color=00000000&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&area_color=0E7490&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abhinavkarnatak-dev&bg_color=00000000&color=334155&line=0284C7&point=0369A1&area=true&area_color=7DD3FC&hide_border=true" />
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavkarnatak-dev&bg_color=00000000&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&area_color=0E7490&hide_border=true" alt="Contribution activity graph" />
-  </picture>
+  <br />
+
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavkarnatak-dev&theme=github_dark" alt="Abhinav's GitHub statistics" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavkarnatak-dev&theme=github_dark" alt="Repositories by language" />
+
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavkarnatak-dev&theme=github_dark" alt="Most used languages by commits" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavkarnatak-dev&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day" />
 </div>
 
 <br />
@@ -172,10 +173,6 @@ Open to conversations around **full-stack engineering, applied AI, and agentic s
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=abhinavkarnatak-dev&label=Profile%20views&color=0891B2&style=flat-square" alt="Profile views" />
-
 **Aviation by passion. Code by craft.** ✈️
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,55:0D47A1,100:07111F&height=110&section=footer)
 
 </div>
