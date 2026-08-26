@@ -24,7 +24,7 @@
 <p>
   <kbd><a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=white" alt="Email" /></a></kbd>
   &nbsp;&nbsp;&nbsp;
-  <kbd><a href="./Abhinav-Karnatak-Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&labelColor=07111F&logo=adobeacrobatreader&logoColor=white" alt="Download Abhinav Karnatak's resume" /></a></kbd>
+  <kbd><a href="./Abhinav%20Karnatak%20Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&labelColor=07111F&logo=adobeacrobatreader&logoColor=white" alt="Download Abhinav Karnatak's resume" /></a></kbd>
 </p>
 
 </div>
