@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://abhinavkarnatak.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Abhinav+%F0%9F%91%8B;I+build+AI+agents+that+ship+real+code;I+make+voice+AI+for+English%2C+Hindi+%26+Hinglish;I+build+systems+that+wake+you+before+prod+dies;Aviation+nerd+at+heart+%E2%9C%88%EF%B8%8F" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Abhinav+%F0%9F%91%8B;Software+engineer+who+loves+to+ship;I+build+full-stack+apps%2C+end+to+end;I+work+with+AI+agents+and+LLMs;Backend%2C+APIs+and+cloud+are+home;Aviation+nerd+at+heart+%E2%9C%88%EF%B8%8F" alt="Typing intro" />
 </a>
 
 <br />
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/abhinavkarnatak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
 <a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
 <a href="./Abhinav%20Karnatak%20Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" /></a>
-<img src="https://komarev.com/ghpvc/?username=abhinavkarnatak-dev&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" />
+<a href="https://x.com/AbhinavK_Dev"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=22d3ee" /></a>
 
 </div>
 
@@ -97,17 +97,19 @@ Turns Grafana alerts into incidents and **calls the on-call engineer**. No answe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,py,js,cpp,react,nextjs,tailwind,nodejs,express,fastapi&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,tailwind&theme=dark&perline=8" />
 <br />
-<img src="https://skillicons.dev/icons?i=electron,postgres,mongodb,redis,rabbitmq,prisma,supabase,docker,aws,nginx&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,rabbitmq,prisma&theme=dark&perline=8" />
+<br />
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,cloudflare,git,github&theme=dark&perline=8" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logo=databricks&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Tool_Calling-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Temporal-0f172a?style=for-the-badge&logo=temporal&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Twilio-0f172a?style=for-the-badge&logo=twilio&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=robotframework&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/LLM_Applications-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Backend_%26_APIs-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Cloud_%26_DevOps-0f172a?style=for-the-badge&logo=docker&logoColor=22d3ee" />
 
 </div>
 
@@ -117,10 +119,10 @@ Turns Grafana alerts into incidents and **calls the on-call engineer**. No answe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavkarnatak-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkarnatak-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavkarnatak-dev&theme=tokyonight" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavkarnatak-dev&theme=tokyonight" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=abhinavkarnatak-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" width="70%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavkarnatak-dev&theme=tokyonight" width="85%" />
 
 </div>
 
@@ -131,4 +133,3 @@ Turns Grafana alerts into incidents and **calls the on-call engineer**. No answe
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Aviation+by+passion.+Code+by+craft.+%E2%9C%88%EF%B8%8F" />
 
 </div>
-
