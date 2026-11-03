@@ -1,178 +1,134 @@
+<img src="./pixel-room.svg" width="100%" alt="Pixel art of Abhinav coding at night" />
+
 <div align="center">
 
-```
-  ________  ________  ___  ___  ___  ________   ________  ___      ___
- |\   __  \|\   __  \|\  \|\  \|\  \|\   ___  \|\   __  \|\  \    /  /|
- \ \  \|\  \ \  \|\ /\ \  \\\  \ \  \ \  \\ \  \ \  \|\  \ \  \  /  / /
-  \ \   __  \ \   __  \ \   __  \ \  \ \  \\ \  \ \   __  \ \  \/  / /
-   \ \  \ \  \ \  \|\  \ \  \ \  \ \  \ \  \\ \  \ \  \ \  \ \    / /
-    \ \__\ \__\ \_______\ \__\ \__\ \__\ \__\\ \__\ \__\ \__\ \__/ /
-     \|__|\|__|\|_______|\|__|\|__|\|__|\|__| \|__|\|__|\|__|\|__|/
-```
+<a href="https://abhinavkarnatak.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Abhinav+%F0%9F%91%8B;I+build+AI+agents+that+ship+real+code;I+make+voice+AI+for+English%2C+Hindi+%26+Hinglish;I+build+systems+that+wake+you+before+prod+dies;Aviation+nerd+at+heart+%E2%9C%88%EF%B8%8F" alt="Typing intro" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=22D3EE&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%F0%9F%9A%80;Applied+AI+%26+Agentic+Engineering;TypeScript+%2B+Node.js+%2B+Python;Building+reliable+systems+that+ship+%E2%9A%A1;Aviation+nerd+at+heart+%E2%9C%88%EF%B8%8F" alt="Typing introduction" />
+<br />
 
-<samp>Building intelligent products, reliable agent workflows, and cloud-native systems.</samp>
-
-<br /><br />
-
-<p>
-  <kbd><a href="https://abhinavkarnatak.com"><img src="https://img.shields.io/badge/Portfolio-abhinavkarnatak.com-00BCD4?style=for-the-badge&labelColor=07111F&logo=googlechrome&logoColor=white" alt="Portfolio" /></a></kbd>
-  &nbsp;&nbsp;&nbsp;
-  <kbd><a href="https://www.linkedin.com/in/abhinavkarnatak"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&labelColor=07111F&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></kbd>
-</p>
-<p>
-  <kbd><a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=white" alt="Email" /></a></kbd>
-  &nbsp;&nbsp;&nbsp;
-  <kbd><a href="./Abhinav%20Karnatak%20Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&labelColor=07111F&logo=adobeacrobatreader&logoColor=white" alt="Download Abhinav Karnatak's resume" /></a></kbd>
-</p>
+<a href="https://abhinavkarnatak.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
+<a href="https://www.linkedin.com/in/abhinavkarnatak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
+<a href="./Abhinav%20Karnatak%20Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" /></a>
+<img src="https://komarev.com/ghpvc/?username=abhinavkarnatak-dev&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" />
 
 </div>
 
-## About me
+<br />
 
-```typescript
-const abhinav = {
-  role: "Full-Stack Developer",
-  focus: ["Applied AI", "Agentic Systems", "Cloud-Native Products"],
-  buildingWith: ["TypeScript", "Python", "Node.js", "React", "LangGraph"],
-  principles: ["Reliable by design", "Secure by default", "Built to ship"],
-  beyondCode: "Aviation enthusiast ✈️",
-};
-```
+## 👾 About me
 
-I build end-to-end, AI-powered software with a focus on **agent workflows, tool execution, retrieval, evaluation, and dependable infrastructure**. I enjoy working across the stack—from a polished product experience to the systems and cloud architecture behind it.
+- 🧠 I build **AI products end to end** - the part people use, and the systems that keep it running
+- 🤖 Most of my work right now: **AI agents, voice AI, and reliable backends**
+- 🎯 Open to **Applied AI, Forward Deployed, Full-Stack and Backend** roles - India or remote
+- ✈️ When I'm not coding, I'm probably watching planes
 
-## What I work with
+<br />
+
+## 🕹️ Featured work
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>AI & Agentic Engineering</h3>
-      <p>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Agentic_Workflows-0E7490?style=flat-square" alt="Agentic Workflows" />
-        <img src="https://img.shields.io/badge/Tool_Calling-0369A1?style=flat-square" alt="Tool Calling" />
-        <img src="https://img.shields.io/badge/LLM_Evaluation-4338CA?style=flat-square" alt="LLM Evaluation" />
-        <img src="https://img.shields.io/badge/Guardrails-6D28D9?style=flat-square" alt="Guardrails" />
-        <img src="https://img.shields.io/badge/Prompt_Engineering-7E22CE?style=flat-square" alt="Prompt Engineering" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Languages & Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Framer_Motion-111827?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="Progressive Web Apps" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Backend & Data</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-233056?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square" alt="REST APIs" />
-        <img src="https://img.shields.io/badge/OAuth_2.0-334155?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
-        <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-        <img src="https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-1F2937?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Cloud, DevOps & Integrations</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-0B1F33?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900" alt="AWS EC2" />
-        <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazons3&logoColor=569A31" alt="AWS S3" />
-        <img src="https://img.shields.io/badge/E2B-111827?style=flat-square" alt="E2B" />
-        <img src="https://img.shields.io/badge/Nginx-0B1F1A?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx" />
-        <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🎙️ Sargosh
+**AI dictation app for Windows**
+
+Hold a shortcut, speak, and clean text lands in any app. Works in **English, Hindi and Hinglish**, and an LLM cleans up fillers and self-corrections.
+
+⚡ Cut the wait after speaking from **~10-12s to ~2.5-3.5s**
+
+<a href="https://sargosh.abhinavkarnatak.com"><img src="https://img.shields.io/badge/Live-Microsoft_Store-22d3ee?style=flat-square&labelColor=0f172a" /></a>
+<a href="https://github.com/abhinavkarnatak-dev/Sargosh-Desktop"><img src="https://img.shields.io/badge/Code-GitHub-a78bfa?style=flat-square&labelColor=0f172a&logo=github" /></a>
+
+<img src="https://skillicons.dev/icons?i=electron,react,ts,supabase&theme=dark&perline=4" height="32" />
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Nimbus
+**Cloud coding agent**
+
+Give it a task in plain English. It reads your GitHub repo, makes the change in a **secure sandbox**, checks it, and opens a **pull request**.
+
+🔁 Pause, resume, update and merge PRs, all from one session
+
+<img src="https://img.shields.io/badge/LangGraph-agent-22d3ee?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/E2B-sandbox-a78bfa?style=flat-square&labelColor=0f172a" />
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb,redis&theme=dark&perline=4" height="32" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🚨 WakeOps
+**Incident response platform**
+
+Turns Grafana alerts into incidents and **calls the on-call engineer**. No answer? It retries, then escalates to a senior.
+
+📨 Slack and email run through **RabbitMQ**, so they never block the calls
+
+<img src="https://img.shields.io/badge/Temporal-calls-a3e635?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Twilio-voice-a3e635?style=flat-square&labelColor=0f172a" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,rabbitmq,grafana&theme=dark&perline=4" height="32" />
+
+</td>
+</tr>
 </table>
 
-## Selected projects
+<details>
+<summary><b>🧩 More projects</b></summary>
+<br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Nimbus</h3>
-      <p><strong>Cloud Coding Agent</strong></p>
-      <p>Connects to GitHub repositories, navigates codebases, answers repository-level questions, and autonomously executes coding tasks.</p>
-      <p><strong>Highlights:</strong> LangGraph reasoning loop, retrieval and tool execution, secure E2B sandboxes, patch validation, and authenticated GitHub operations.</p>
-      <p><code>TypeScript</code> <code>Node.js</code> <code>React</code> <code>MongoDB</code> <code>Redis</code> <code>LangGraph</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 YapIt</h3>
-      <p><strong>Real-Time Microservices Chat</strong></p>
-      <p>A persistent WebSocket chat platform built as decoupled User, Chat, and Mail services with reliable asynchronous communication.</p>
-      <p><strong>Highlights:</strong> RabbitMQ messaging, Redis, Docker Compose, AWS EC2, S3 file sharing, and Nginx routing.</p>
-      <p><code>Next.js</code> <code>Node.js</code> <code>Socket.io</code> <code>Redis</code> <code>RabbitMQ</code> <code>AWS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Revuea</h3>
-      <p><strong>Anonymous Feedback Platform</strong></p>
-      <p>Securely collects and manages anonymous feedback, with OTP-based onboarding, an analytics dashboard, and CSV exports.</p>
-      <p><strong>Highlights:</strong> Gemini-powered feedback summarization and a PostgreSQL data layer built with Prisma.</p>
-      <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Gemini</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ PixScribe</h3>
-      <p><strong>SaaS Text-to-Image Generator</strong></p>
-      <p>A responsive AI image-generation product with a usage credit system and secure payment processing.</p>
-      <p><strong>Highlights:</strong> Razorpay integration, automatic balance updates, and fluid interface transitions.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Razorpay</code></p>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Built with |
+|---|---|---|
+| 💬 **YapIt** | Real-time chat built as separate microservices | Next.js, Socket.io, RabbitMQ, Redis, AWS |
+| 📊 **Revuea** | Anonymous feedback with AI summaries | React, PostgreSQL, Prisma, Gemini |
+| ✨ **PixScribe** | Text-to-image SaaS with credits and payments | React, Express, MongoDB, Razorpay |
 
-## GitHub snapshot
+</details>
+
+<br />
+
+## 🧰 Tech stack
 
 <div align="center">
-  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavkarnatak-dev&theme=github_dark" alt="Abhinav's GitHub contribution overview" />
 
-  <br />
+<img src="https://skillicons.dev/icons?i=ts,py,js,cpp,react,nextjs,tailwind,nodejs,express,fastapi&theme=dark&perline=10" />
+<br />
+<img src="https://skillicons.dev/icons?i=electron,postgres,mongodb,redis,rabbitmq,prisma,supabase,docker,aws,nginx&theme=dark&perline=10" />
 
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavkarnatak-dev&theme=github_dark" alt="Abhinav's GitHub statistics" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavkarnatak-dev&theme=github_dark" alt="Repositories by language" />
+<br /><br />
 
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavkarnatak-dev&theme=github_dark" alt="Most used languages by commits" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavkarnatak-dev&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day" />
+<img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge&logo=langchain&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/RAG-0f172a?style=for-the-badge&logo=databricks&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Tool_Calling-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Temporal-0f172a?style=for-the-badge&logo=temporal&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Twilio-0f172a?style=for-the-badge&logo=twilio&logoColor=22d3ee" />
+
+</div>
+
+<br />
+
+## 📟 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavkarnatak-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkarnatak-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=abhinavkarnatak-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" width="70%" />
+
 </div>
 
 <br />
 
 <div align="center">
 
-### Let’s build something ambitious.
-
-Open to conversations around **full-stack engineering, applied AI, and agentic systems**.
-
-<a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-07111F?style=for-the-badge&logo=minutemailer&logoColor=22D3EE" alt="Get in touch" /></a>
-
-<br /><br />
-
-**Aviation by passion. Code by craft.** ✈️
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Aviation+by+passion.+Code+by+craft.+%E2%9C%88%EF%B8%8F" />
 
 </div>
+
