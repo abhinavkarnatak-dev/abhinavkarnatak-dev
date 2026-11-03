@@ -11,8 +11,8 @@
 <a href="https://abhinavkarnatak.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
 <a href="https://www.linkedin.com/in/abhinavkarnatak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
 <a href="mailto:abhinavkarnatak2004@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
-<a href="./Abhinav%20Karnatak%20Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" /></a>
 <a href="https://x.com/AbhinavK_Dev"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=22d3ee" /></a>
+<a href="./Abhinav%20Karnatak%20Resume.pdf?raw=1"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readme&logoColor=22d3ee" /></a>
 
 </div>
 
